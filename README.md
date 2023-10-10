@@ -40,3 +40,6 @@ The rest of the files correspond to:
  - models.py: implements two models used in the paper (`Independent_MOGP` and `Dependent_MOGP`). The first one consists of multiple Gaussian processes, the second one is a multiple output Gaussian process.
 
  - plot_utils.py: plots numerical results.
+
+# Contributors
+Shiqiang Zhang. Funded by an Imperial College Hans Rausing PhD Scholarship.
